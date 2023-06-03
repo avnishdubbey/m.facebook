@@ -1,0 +1,72 @@
+a { text-decoration: none; }
+.color-blue { color: #2a53ad; }
+
+.fb{
+    font-weight: 700;
+    font-size: 25px;
+    color: #3F77F3; /* Facebook Color */
+} 
+
+.mt80{
+    margin-top: 80px;
+}
+
+.fs11{ font-size: 13px; }
+ 
+.bt{
+    color: #2a53ad;
+    font-size: 11px;
+    margin-top: 20px;
+}
+.ml{
+    margin-top: 5px;
+    font-size: 11px;
+    color: #2a53ad;
+}
+.input-box{
+    border-radius: 3px;
+    height: 50px;
+    background-color: #F5F6F7;
+}
+
+.form-control:focus {
+    color: #212529;
+    background-color: #F5F6F7;
+    border-color: black;
+    outline: 0;
+    box-shadow: none;
+}   
+
+.w100{ width: 100%; }
+.w38{ width: 38%; }
+
+.m-8-0{margin: 8px 0px;}
+.m-25-0{margin: 25px 0px;}
+.mt8{margin-top: 8px;}
+
+#loginBtn{
+    width: 100%;
+    background-color: #3F77F3;
+}
+
+#new-account-button {
+    border: 1px solid #999;
+    background-color: white;
+    width: 75%;
+}
+
+.fp{
+    margin-top: 10px;
+}
+.or{
+    width: 40px;
+    left: 49%;
+    top: 32%;
+    position: absolute;
+}
+.ph{
+    height: 35px;
+    width: 308px;
+}
+
+.line { border-top: 1px solid #e6e6e6; }
